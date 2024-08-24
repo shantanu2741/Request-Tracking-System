@@ -11,6 +11,10 @@ This project is a simple Spring Boot application that demonstrates how to track 
 
 The application also includes a basic "Hello World" JSP page to demonstrate the functionality.
 
+
+![image](https://github.com/user-attachments/assets/3b13461c-f3e4-4a77-bdb9-e2ebc4012157)
+
+
 ## Features
 
 - **Request Logging:** Logs each incoming request to a MySQL database.
